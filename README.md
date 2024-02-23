@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blitzxor&layout=compact&theme=aura)](https://github.com/yourusername)
 <div align="center">
-  <a href="https://wakatime.com/@Blitzxor">
+  <a href="https://wakatime.com/@Brhys9">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brhys9&theme=aura"alt="WakaTime Stats">
   </a>
 </div>
