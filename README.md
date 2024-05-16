@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blitzxor&layout=compact&theme=aura)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfab9&layout=compact&theme=aura)](https://github.com/yourusername)
 <div align="center">
   <a href="https://wakatime.com/@Brhys9">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brhys9&theme=aura"alt="WakaTime Stats">
@@ -6,7 +6,7 @@
 </div>
 
 ## 📈 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Blitzxor&show_icons=true&theme=ambient_gradient)](https://github.com/Blitzxor)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mfab9&show_icons=true&theme=ambient_gradient)](https://github.com/mfab9)
 
 **languages and tools:**  
 
