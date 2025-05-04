@@ -5,7 +5,7 @@
   </a>
 </div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mfab9?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/fabberry?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/fabberry?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/fabberry?theme=unicorn&extension=activity)
 
 
 **languages and tools:**  
