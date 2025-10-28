@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabberrry&layout=compact&theme=aura)](https://github.com/mfab9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabberrry&layout=compact&theme=aura)](https://github.com/fabberrry)
 <div align="center">
   <a href="https://wakatime.com/@mfab9">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mfab9&theme=aura"alt="WakaTime Stats">
