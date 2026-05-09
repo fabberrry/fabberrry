@@ -1,6 +1,8 @@
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fabberrry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em"
+       src="https://github-readme-stats-pied-pi-51.vercel.app/api/top-langs/?username=fabberrry&layout=compact&theme=radical"/>
+  <img height="180em"
+       src="https://github-readme-stats-pied-pi-51.vercel.app/api?username=fabberrry&show_icons=true&theme=radical"/>
 
 </div>
 
