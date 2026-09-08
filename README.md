@@ -1,6 +1,6 @@
 <div align="center">
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fabberrry&layout=compact&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=fabberrry&layout=compact&hide_title=true&langs_count=4&theme=radical)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=fabberrry&layout=compact&hide_title=true&langs_count=4&theme=radical&size_weight=0.3&count_weight=0.7)](https://github.com/fabberrry)
 
 </div>
 
