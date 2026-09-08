@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-pied-pi-51.vercel.app/api/top-langs/?username=fabberrry&layout=compact&theme=radical"/>
-  <img height="180em"
-       src="https://github-readme-stats-pied-pi-51.vercel.app/api?username=fabberrry&show_icons=true&theme=radical"/>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fabberrry&layout=compact&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=fabberrry&layout=compact&hide_title=true&langs_count=4&theme=radical)
 
 </div>
+
+
 
 <div align="center">
 
